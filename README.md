@@ -82,10 +82,8 @@ youtube.com
 in `domains.txt `
 - if any outofscope domains are given then put it in outofscope.txt
 eg 
-```bash
-acc.google.com & ads.youtube.com 
-```
-are outof scope then we put it in `outofscope.txt` as
+
+For outof scope then we put it in `outofscope.txt` as
 ```bash
 acc.google.com
 ads.youtube.com
