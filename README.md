@@ -83,10 +83,8 @@ youtube.com
 in `domains.txt `
 - if any outofscope domains are given then put it in outofscope.txt
 eg 
-```bash
-acc.google.com & ads.youtube.com 
-```
-are outof scope then we put it in `outofscope.txt` as
+
+For out of scope then we put it in `outofscope.txt` as
 ```bash
 acc.google.com
 ads.youtube.com
@@ -128,6 +126,6 @@ ads.youtube.com
 - [github actions](https://docs.github.com/en/actions)
 - [aquatone](https://github.com/michenriksen/aquatone)
 
-## Auther : [DK9510](https://github.com/DK9510)
+## Author : [DK9510](https://github.com/DK9510)
 ## Twitter: [DishantKapadiya](https://twitter.com/DK_9510)
 ## Acknowledge : give thankyou to project discovery team for give idea to create similar project like pd-actions, and all the creators of tools who created this fantastic tools
