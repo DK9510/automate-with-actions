@@ -29,6 +29,8 @@ jobs:
         #scripts/subdomain.sh
         #sleep 5
         #scripts/dns-resolv.sh
+        ##this script will take screenshot using aquatone and commit result to github repository
+        #scripts/screenshot.sh 
         ## this script will brute-force for virtual hosts using gobuster
         ## do httprobing using tomnomnom's httprobe
         #sleep 5
