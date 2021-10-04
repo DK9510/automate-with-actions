@@ -64,6 +64,7 @@ configs/nuclei.yaml - nuclei config file
 scripts/vhost.sh
 scripts/port-scan.sh
 scripts/httpx.sh
+scripts/screenshot.sh
 ```
 
 # give domain name
