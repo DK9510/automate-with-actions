@@ -18,7 +18,7 @@
 7. fuzz the domains after probing through [httprobe](https://github.com/tomnomnom/httprobe) for the critical directory, you customize the wordlist in the fuzzing directory
 8. final we scan the live domains using project discovery's [nuclei](https://github.com/projectdiscovery/nuclei) for scanning cves, vulnerabilities etc, you can change the configuration file nuclei.yaml in configs/
 9. For notification purpose i have used [notify](https://github.com/projectdiscovery/notify) but this didn't work in github vm  if you running this script in local machine or in vps then it will work. change config for notify in configs/notify.yaml and also see notify's official documentation for how to config it for your own.
-10. For tacking screen shots i have used Aquatone 
+10. For taking screen shots i have used Aquatone 
 
 # how to use 
 ## setup workflow
