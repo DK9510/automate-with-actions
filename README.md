@@ -22,7 +22,7 @@
 
 # how to use 
 ## setup workflow
-1. fork this repository and make this private since the output is commited in forked repo & you didn't want to make your work public...
+1. download this repo in your pc and remove all .git fils and make new private repository and initialize repository make sure you make private repository and since the output is commited in this repo & you didn't want to make your work public...
 2. In 2nd new created repo make add new file `.github/workflows/github-actions.yaml`
 3. create personal Access token for github see [documentation](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) be sure to check this other don't need for this project, this will allow read and write actions to private repository
 ![img0](assets/permission.png)
