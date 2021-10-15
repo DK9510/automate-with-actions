@@ -111,6 +111,8 @@ ads.youtube.com
 ## NOTE:
 `you can add more scripts and tune it as you wish but dont forget to modify workflow file in .github/workflows/*.yaml file unless it dont reflect if you have add new scripts.`
 
+## Note:
+`if you are using. VPS then no need to commit in github just comment all commands in all scripts that used to work with github repository and no need to generate and add personal access token. But only for VPS`
 - you can customize the scripts written by me to your own preference and add feature you want
 
 # tools i have used in this project
