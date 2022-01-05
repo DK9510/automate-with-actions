@@ -130,5 +130,5 @@ ads.youtube.com
 - [aquatone](https://github.com/michenriksen/aquatone)
 
 ## Author : [DK9510](https://github.com/DK9510)
-## Twitter: [DishantKapadiya](https://twitter.com/DK_9510)
+## Twitter: [DK_9510](https://twitter.com/DK_9510)
 ## Acknowledge : give thankyou to project discovery team for give idea to create similar project like pd-actions, and all the creators of tools who created this fantastic tools
