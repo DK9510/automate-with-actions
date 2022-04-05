@@ -4,7 +4,7 @@
 mkdir port-scan
 cd port-scan
 cp ../output/final_list.txt .
-naabu -iL final_list.txt -top-ports 1000 -verify -exclude-cdn -c 400 -rate 300 -silent -o nabu-result.txt
+sudo naabu -iL final_list.txt -top-ports 1000 -verify -exclude-cdn -c 400 -rate 300 -silent -o nabu-result.txt
 
 cat nabu-result.txt | httpx -silent -tech-detect -status-code -vhost -method -follow-redirects  -no-color -rate-limit 250 -cname -x all -o httpx_naabu.txt
 
