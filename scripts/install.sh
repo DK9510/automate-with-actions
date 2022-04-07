@@ -37,9 +37,7 @@ go install -v github.com/tomnomnom/httprobe@latest
 #Httprobe
 
 #go path don't remove it
-export GOROOT=/usr/local/go
-export GOPATH=$HOME/go 
-export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+
 #export PATH=~/go/bin:$PATH
 
 
