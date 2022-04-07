@@ -4,11 +4,11 @@
 
 echo "Start Installing...."
 sudo apt-get update && sudo apt-get upgrade
-
+sudo apt install golang-go 
 # install go 1.17 version
-wget https://dl.google.com/go/go1.17.8.linux-amd64.tar.gz 
-sudo tar -xvf go1.17.8.linux-amd64.tar.gz 
-sudo mv -f go /usr/local/
+# wget https://dl.google.com/go/go1.17.8.linux-amd64.tar.gz 
+# sudo tar -xvf go1.17.8.linux-amd64.tar.gz 
+# sudo mv -f go /usr/local/
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go 
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
